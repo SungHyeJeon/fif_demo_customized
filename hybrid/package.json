@@ -1,0 +1,21 @@
+{
+    "name": "org.oraclejet.navbarlogin",
+    "version": "1.0.0",
+    "displayName": "navbar-login",
+    "cordova": {
+        "platforms": [
+            "android",
+            "browser",
+            "ios"
+        ],
+        "plugins": {
+            "cordova-plugin-whitelist": {}
+        }
+    },
+    "dependencies": {
+        "cordova-ios": "~4.3.1",
+        "cordova-android": "~6.1.2",
+        "cordova-browser": "~4.1.0",
+        "cordova-plugin-whitelist": "1"
+    }
+}
